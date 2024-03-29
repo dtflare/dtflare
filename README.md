@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dtflare
+- 👋 Hello!, I’m @dtflare
 - 👀 I’m interested in ... AI ... & ... Cybersecurity
-- 🌱 My current work is centered around ... AI ... & ... cybersecurity
-- 💞️ I’m looking to collaborate on ... AI ... & ... cybersecurity ... projects
-- 📫 How to reach me ... email ... or ... DM
+- 🌱 My current work is centered around ... AI Engineering... & ... Cybersecurity
+- 💞️ I’m looking to collaborate on ... AI ... & ... Cybersecurity ... projects
+- 📫 How to reach me ... dtflare@proton.me
 
 <!---
 dtflare/dtflare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
